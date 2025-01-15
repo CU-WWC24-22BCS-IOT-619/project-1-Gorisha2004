@@ -27,12 +27,13 @@ git clone https://github.com/Gorisha2004/fitness-platform.git
 cd fitness-platform
 ```
 2. Install dependencies:
-```npm install
+```
+npm install
 
 ```
 3. Start the development server:
 ```
-`npm start
+npm start
 ```
 4. Open the app in your browser at http://localhost:3000.
 ## Usage
