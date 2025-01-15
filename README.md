@@ -17,8 +17,8 @@ Build a community of fitness enthusiasts to share achievements and motivate each
 Earn points for active participation and redeem them for rewards.
 ## Tech Stack
 **Frontend**: HTML, CSS, JavaScript, React.js
-**Backend**: Minimal setup, using hardcoded elements for simplicity
-**Database**: Not included; data is managed manually for demo purposes
+**Backend**: Express.js
+**Database**: MongoDB
 
 # Setup and Installation
 1. Clone the repository:
